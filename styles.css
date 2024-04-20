@@ -226,10 +226,9 @@ a.link:hover{
 
 .hamburger {
     cursor: pointer;
-
     visibility: hidden;
     position: absolute;
-    top: 30px;
+    top: 42px;
     right: 35px;
     background-color: transparent;
     border: none;
